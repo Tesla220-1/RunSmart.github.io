@@ -3,4 +3,70 @@
     padding-top: 21px;
     padding-bottom: 93px;
     background: url('../../img/bg/heart-rate-monitor_selection_bg.png') center (center / cover) no-repeat;
+<<<<<<< HEAD
+    &__header{
+        color: #ffffff;
+        font-weight: 700;
+        font-size: 42px;
+        text-transform: uppercase;
+        line-height: 1;
+    }
+    &__subheader{
+        color: #ffffff;
+        font-size: 24px;
+        font-weight: 500;
+        text-transform: uppercase;
+        line-height: 1;
+        margin-top: 17px;
+    }
+    &__wrapper{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        margin-top: 99px;
+    }
+    &__icons{
+        display: flex;
+        justify-content: space-around;
+        width: 425px;
+        margin-top: 66px;
+    }
+    &__icon{
+        text-align: center;
+        color: #ffffff;
+        font-size: 14px;
+        font-weight: 500;
+    }
+    &__icon-stopwatch{
+        width: 42px;
+        height: 46px;
+        margin-bottom: 15px;
+    }
+    &__icon-pushcart{
+        width: 44px;
+        height: 45px;
+        margin-bottom: 15px;
+    }
+    &__icon-selection{
+        width: 45px;
+        height: 42px;
+        margin-bottom: 15px;
+    }
+    &__link{
+        color: #ffffff;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1;
+        margin-top: 18px;
+        a{
+            color: #ffffff;
+            text-decoration: underline;
+        }
+        a:hover{
+            color: #ffffff;
+            text-decoration: underline;
+        }
+    }
+=======
+>>>>>>> master
 }

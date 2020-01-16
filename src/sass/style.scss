@@ -1,5 +1,6 @@
 *{
     font-family: "Museo-Sans-Cyrl", sans-serif;
+    margin-bottom: 0;
 }
 
 @import "variables";
@@ -7,4 +8,9 @@
 @import"general";
 @import"media";
 @import"blocks/promo";
+<<<<<<< HEAD
+@import"blocks/header";
+@import"blocks/buttons";
+=======
 @import"blocks/header"
+>>>>>>> master

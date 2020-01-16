@@ -15,8 +15,32 @@
     }
     &__official-representative{
         font-size: 12px;
+<<<<<<< HEAD
+        display: block;
+        text-align: center;
     }
     &__official-representative-name{
         font-size: 18px;
+        display: block;
+        text-align: center;
+    }
+    &__phone{
+        color: #ffffff;
+        font-weight: 700;
+        font-size: 18px;
+        &:hover{
+            color: #ffffff; 
+            text-decoration: none;
+        }
+    }
+    &__contacts{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+=======
+    }
+    &__official-representative-name{
+        font-size: 18px;
+>>>>>>> master
     }
 }
