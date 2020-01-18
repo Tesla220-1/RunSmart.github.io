@@ -2,6 +2,10 @@
     font-family: "Museo-Sans-Cyrl", sans-serif;
     margin-bottom: 0;
 }
+.container{
+    max-width: 950px;
+    margin: 0 auto
+}
 
 @import "variables";
 @import"mixins";
@@ -12,6 +16,6 @@
 @import"blocks/buttons";
 @import"blocks/header";
 @import"blocks/title";
-@import"blocks/section-1-advantages";
-@import"blocks/secton-2-consult";
+@import"blocks/advantages";
+@import"blocks/consult";
 @import"blocks/forms";
